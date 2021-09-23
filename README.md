@@ -1,5 +1,5 @@
 # Audio-Arca
-Experimental Toy-Chat Add-On Library PortAudio(I/O)-Architecture Testing. 
+Experimental Toy-Chat Add-On For Arca, Library PortAudio(I/O)-Architecture Testing. 
 An Audio and Text Chat Client-Server Application Written in Golang.
 
 Binaries Are Supplied in The Client and Server Folders, The DLL is Required For the App to Run.
